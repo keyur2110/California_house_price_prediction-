@@ -1,5 +1,5 @@
 # California_house_price_prediction-
-<p>Empirical valuation for California houses.Trying to predict property prices for different locations.</p>
+<p>Empirical valuation for California houses.Trying to predict property prices for different locations in California.</p>
 <p>implemented Three different machine learning models. <br>
 The entire work process can be broken as below.<br>
 <B>Data Preprocessing</B><br>
